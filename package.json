@@ -1,0 +1,25 @@
+{
+  "name": "jest-testing-graphql-api",
+  "version": "1.0.0",
+  "description": "Demonstratng how to test a GraphQL API using the Jest JavaScript testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreciousChicken/jest-testing-graphql-api.git"
+  },
+  "keywords": [
+    "Jest",
+    "JavaScript",
+    "GraphQL",
+    "testing"
+  ],
+  "author": "PreciousChicken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PreciousChicken/jest-testing-graphql-api/issues"
+  },
+  "homepage": "https://github.com/PreciousChicken/jest-testing-graphql-api#readme"
+}
