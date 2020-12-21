@@ -1,7 +1,7 @@
 {
   "name": "jest-testing-graphql-api",
   "version": "1.0.0",
-  "description": "Demonstratng how to test a GraphQL API using the Jest JavaScript testing framework.",
+  "description": "Demonstrating how to test a GraphQL API using the Jest JavaScript testing framework.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
